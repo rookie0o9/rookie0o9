@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my first Python project "50 days of Python code" with @mysteriousdeee
+- 🔭 I’m currently working on my first Python project "50 days of Python code"
 - 🌱 I’m currently learning Python & MySQL 
 - 👯 I’m looking to collaborate on security and data analysis focused projects
 - 💬 Ask me about Network Analysis and Auditing
