@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mycybsecprofade@gmail.com
 - ⚡ Fun fact: I like to be challenged.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookie0o9)](https://github.com/rookie0o9/github-readme-stats)
