@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to be challenged.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookie0o9)](https://github.com/rookie0o9/github-readme-stats&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookie0o9&show_icons=true&theme=radical))](https://github.com/rookie0o9/github-readme-stats)
