@@ -2,13 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=rookie0o9)
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rookie0o9&theme=onedark)](https://github.com/rookie0o9/github-profile-trophy)
 
+### A brief "ABOUT ME" list
 
-- 🔭 I’m currently working on my first Python project "50 days of Python code"
-- 🌱 I’m currently learning Python & MySQL 
-- 👯 I’m looking to collaborate on security and data analysis focused projects
-- 💬 Ask me about Network Analysis and Auditing
+- 🔭 PROJECTS: "50 days of Python code".
+- 🌱 LANGUAGE: Python (NumPy, Panda, PonyORM) & Data Manipulation Languages (MySQL, MongoDB).  
+- 💬 INTERESTS: Network Analysis and Auditing, Data Forensics and Analysis, Cloud Architecture and Structuring.
+- 👯 COLLABORATIONS: Collaborations are welcome, share your ideas.
 - 📫 How to reach me: mycybsecprofade@gmail.com
 - ⚡ Fun fact: I like to be challenged.
 
