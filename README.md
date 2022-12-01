@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=rookie0o9)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rookie0o9&theme=onedark)](https://github.com/rookie0o9/github-profile-trophy)
+
+
 **rookie0o9/rookie0o9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
