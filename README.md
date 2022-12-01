@@ -11,8 +11,8 @@
 - 🌱 LANGUAGE: Python (NumPy, Panda, PonyORM) & Data Manipulation Languages (MySQL, MongoDB).  
 - 💬 INTERESTS: Network Analysis and Auditing, Data Forensics and Analysis, Cloud Architecture and Structuring.
 - 👯 COLLABORATIONS: Collaborations are welcome, share your ideas.
-- 📫 How to reach me: mycybsecprofade@gmail.com
-- ⚡ Fun fact: I like to be challenged.
+- 📫 CONTACT: mycybsecprofade@gmail.com
+- ⚡ FUN FACT: I like to be challenged.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rookie0o9&show_icons=true&theme=radical)](https://github.com/rookie0o9/github-readme-stats)
